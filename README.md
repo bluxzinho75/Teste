@@ -1,38 +1,50 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&size=45&duration=3500&pause=800&color=5F00FF&center=true&vCenter=true&width=1000&lines=BLUX+BOT+V4.1;Ultra+Modern+Edition;Multi+Device+System;2026+Official+Release">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=600&size=48&duration=3500&pause=800&color=6A00FF&center=true&vCenter=true&width=1000&lines=🚀+BLUX+BOT+V4.1+🚀;NEXT+GENERATION+SYSTEM;MULTI+DEVICE+EDITION;ULTRA+MODERN+2026">
 
 <br>
 
-<img src="https://files.catbox.moe/je772o.jpeg" width="900">
+<img src="https://files.catbox.moe/je772o.jpeg" width="880">
 
 <br><br>
 
-![Versão](https://img.shields.io/badge/Version-4.1-5F00FF?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Online-00C896?style=flat-square)
-![Engine](https://img.shields.io/badge/Engine-NodeJS-339933?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-Termux-000000?style=flat-square)
-![Device](https://img.shields.io/badge/Mode-MultiDevice-1DA1F2?style=flat-square)
+<img src="https://img.shields.io/badge/VERSION-4.1-6A00FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5A0?style=for-the-badge">
+<img src="https://img.shields.io/badge/MULTI-DEVICE-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/ENGINE-NODEJS-339933?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/UPDATED-2026-FF00AA?style=for-the-badge">
+
+<br><br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
----
+# ✨ BLUX BOT V4.1 — Ultra Modern Edition
 
-# BLUX BOT V4.1
-
-Sistema WhatsApp Multi-Device moderno, organizado e otimizado.
+Sistema WhatsApp Multi-Device totalmente otimizado, moderno e estruturado.
 
 Projeto desenvolvido com foco em:
 
-- Performance
-- Estrutura limpa
-- Organização de código
-- Estabilidade
-- Facilidade de instalação
+• ⚡ Performance máxima  
+• 🧠 Código organizado  
+• 🛡️ Estabilidade reforçada  
+• 🚀 Estrutura escalável  
+• 🎨 Visual moderno  
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Estrutura do Projeto
+# 🌌 DIFERENCIAIS DA VERSÃO 4.1
+
+✔ Sistema Multi-Device estável  
+✔ Estrutura limpa e separada por módulos  
+✔ Melhor gerenciamento de comandos  
+✔ Preparado para futuras atualizações  
+✔ Instalação simples e rápida  
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📂 ESTRUTURA DO PROJETO
 
 ```
 BLUX-BOT-V4
@@ -47,13 +59,13 @@ BLUX-BOT-V4
 └── assets/
 ```
 
-Organização pensada para crescimento escalável e fácil manutenção.
+Estrutura organizada para facilitar manutenção e expansão.
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Instalação via Termux
+# ⚙️ INSTALAÇÃO VIA TERMUX
 
-### 1 • Atualizar o ambiente
+## ① Atualizar ambiente
 
 ```bash
 apt update -y && apt upgrade -y
@@ -61,65 +73,57 @@ pkg install nodejs-lts -y
 pkg install ffmpeg git wget tesseract -y
 ```
 
----
+━━━━━━━━━━━━━━━━━━
 
-### 2 • Liberar armazenamento
+## ② Liberar armazenamento
 
 ```bash
 termux-setup-storage
 ```
 
----
+━━━━━━━━━━━━━━━━━━
 
-### 3 • Clonar o repositório
+## ③ Clonar projeto
 
 ```bash
 cd /sdcard
 git clone https://github.com/bluxzinho74/BLUX-BOT-V4
 ```
 
----
+━━━━━━━━━━━━━━━━━━
 
-### 4 • Instalar dependências
+## ④ Instalar dependências
 
 ```bash
 cd BLUX-BOT-V4
 npm install
 ```
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Iniciar o Bot
+# ▶️ INICIAR O SISTEMA
 
 ```bash
 npm start
 ```
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# Requisitos
+# 🛠 REQUISITOS
 
-- NodeJS LTS
-- Termux atualizado
-- Conexão estável
-- Leitura de QR Code
+• NodeJS LTS  
+• Termux atualizado  
+• Internet estável  
+• Leitura de QR Code  
 
----
-
-# Sobre o Projeto
-
-BLUX BOT V4.1 é uma evolução completa da versão anterior, trazendo:
-
-- Melhor organização
-- Melhor desempenho
-- Estrutura preparada para expansão
-- Código mais limpo e moderno
-
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-Desenvolvido por @bluxzinho  
-2026 © BLUX BOT V4.1
+🧬 BLUX BOT V4.1  
+⚡ Powered by BLUX  
+🚀 2026 Official Release  
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
