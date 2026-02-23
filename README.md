@@ -1,57 +1,57 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=4000&color=7A00FF&center=true&vCenter=true&width=1000&lines=🚀+BLUX+BOT+V4.1+🚀;⚡+MULTI+DEVICE+SYSTEM+⚡;🔥+OFICIAL+UPDATE+2026+🔥">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=50&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=1000&lines=BLUX+BOT+V4.1;NEXT+GENERATION;MULTI+DEVICE+SYSTEM;2026+ULTRA+EDITION">
 
 <br>
-<img src="https://files.catbox.moe/je772o.jpeg" width="800" style="border-radius:20px;">
+
+<img src="https://files.catbox.moe/je772o.jpeg" width="850" style="border-radius:25px; box-shadow: 0px 0px 60px #8A2BE2;">
+
 <br><br>
 
-![Version](https://img.shields.io/badge/VERSION-4.1-7A00FF?style=for-the-badge&logo=github)
-![Author](https://img.shields.io/badge/AUTHOR-@bluxzinho-111111?style=for-the-badge&logo=github)
-![Platform](https://img.shields.io/badge/PLATFORM-TERMUX-00C2FF?style=for-the-badge)
-![Device](https://img.shields.io/badge/MULTI-DEVICE-00FF88?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-2ecc71?style=for-the-badge)
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FFAA?style=for-the-badge&logo=whatsapp">
+<img src="https://img.shields.io/badge/VERSION-4.1-8A2BE2?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/MULTI-DEVICE-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/ENGINE-NODEJS-339933?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/UPDATED-2026-FF1493?style=for-the-badge">
 
 </div>
 
 ---
 
-# ✨ BLUX BOT V4.1
+# 🧬 BLUX BOT V4.1 — NEXT LEVEL
 
-> 💎 Bot WhatsApp Multi-Device  
-> 🚀 Alta performance  
-> 🔐 Sistema atualizado  
-> ⚡ Estável e otimizado  
-> 🛡️ Segurança reforçada  
-
----
-
-# 📌 SOBRE O PROJETO
-
-BLUX BOT V4.1 é um bot moderno desenvolvido para WhatsApp Multi-Device, focado em:
-
-- ⚡ Velocidade
-- 🔥 Estabilidade
-- 🎨 Organização
-- 🚀 Performance
-- 🛠️ Fácil instalação
+> ⚡ Sistema Ultra Otimizado  
+> 🚀 Performance Máxima  
+> 🛡️ Estrutura Reforçada  
+> 🎨 Visual Moderno  
+> 🔥 Atualização Oficial 2026  
 
 ---
 
-# 📥 INSTALAÇÃO VIA TERMUX
+# 🌌 DIFERENCIAL DO V4.1
 
-## 🔹 1° PASSO — ATUALIZAR TERMUX
+✔ Sistema Multi-Device estável  
+✔ Código organizado e limpo  
+✔ Alto desempenho  
+✔ Estrutura moderna  
+✔ Compatível com Termux  
+✔ Fácil instalação  
+
+---
+
+# 📦 INSTALAÇÃO ULTRA RÁPIDA (TERMUX)
+
+## ① Atualizar ambiente
 
 ```bash
 apt update -y && apt upgrade -y
-pkg update -y
 pkg install nodejs-lts -y
 pkg install ffmpeg git wget tesseract -y
 ```
 
 ---
 
-## 🔹 2° PASSO — LIBERAR ARMAZENAMENTO
+## ② Liberar armazenamento
 
 ```bash
 termux-setup-storage
@@ -59,7 +59,7 @@ termux-setup-storage
 
 ---
 
-## 🔹 3° PASSO — CLONAR O PROJETO
+## ③ Clonar projeto
 
 ```bash
 cd /sdcard
@@ -68,7 +68,7 @@ git clone https://github.com/bluxzinho74/BLUX-BOT-V4
 
 ---
 
-## 🔹 4° PASSO — INSTALAR DEPENDÊNCIAS
+## ④ Instalar dependências
 
 ```bash
 cd BLUX-BOT-V4
@@ -77,7 +77,7 @@ npm install
 
 ---
 
-## ▶️ INICIAR O BOT
+# ▶️ INICIAR O SISTEMA
 
 ```bash
 npm start
@@ -85,66 +85,51 @@ npm start
 
 ---
 
-# 🔄 REINICIAR BOT
-
-```bash
-npm start
-```
-
----
-
-# 🛠️ REQUISITOS
-
-- NodeJS LTS
-- Termux Atualizado
-- Internet Estável
-- QR Code para conectar
-
----
-
-# 📂 ESTRUTURA DO PROJETO
+# 🧠 ESTRUTURA DO PROJETO
 
 ```
 BLUX-BOT-V4
 │
 ├── index.js
-├── package.json
 ├── config.js
-├── lib/
+├── package.json
 ├── comandos/
+├── lib/
 ├── database/
-└── media/
+├── media/
+└── assets/
 ```
 
 ---
 
-# 💜 VISUAL PREMIUM 2026
+# 🛠 REQUISITOS
+
+• NodeJS LTS  
+• Internet estável  
+• Termux atualizado  
+• QR Code para conexão  
+
+---
+
+# 👑 VISUAL 2026
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=4000&color=7A00FF&center=true&vCenter=true&width=800&lines=╔══╗+BLUX+BOT+V4.1+╔══╗;║██║+POWERED+BY+BLUX+║██║;╚══╝+MULTI+DEVICE+╚══╝">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=28&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=BLUX+BOT+V4.1;POWERED+BY+BLUX;MULTI+DEVICE+SYSTEM">
 
 </div>
 
 ---
 
-# 👑 CRÉDITOS
+# ⚠ AVISO IMPORTANTE
 
-Desenvolvido por:
-
-**@bluxzinho**
-
----
-
-# ⚠️ AVISO
-
-Não remova os créditos.  
-Projeto feito para aprendizado e uso pessoal.
+Projeto desenvolvido para fins educacionais.  
+Não remover créditos do desenvolvedor.
 
 ---
 
 <div align="center">
 
-🔥 BLUX BOT V4.1 — O FUTURO DOS BOTS 🔥
+🔥 BLUX BOT V4.1 — DOMINANDO 2026 🔥
 
 </div>
